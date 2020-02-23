@@ -2,6 +2,14 @@
 
 {:toc}
 
+### TLDR
+```sh
+ curl -d \
+  '{"inputLanguage":"en", "outputLanguage":"nl", "text": "Could you translate this for me?"}' \
+  -H "Content-Type: application/json" -X POST http://reqyt.run/google_translate
+```
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
