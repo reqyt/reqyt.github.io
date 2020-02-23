@@ -16,7 +16,7 @@ Maybe I should start with what I think this is. I would say it's a market place 
 - Will it rain tomorrow in Amsterdam at 5?
 - What was the average exchange rate of Bitcoin vs. the US dollar two weeks ago?
 - Could you convert this image from to a 256x256 jpeg file?
-- Please make a screenshot of how `https://nu.nl/` looks it Chrome.
+- Please make a screenshot of how `https://nu.nl/` looks in Chrome.
 - Send an email to 'mail@reqyt.run' with the following contents: ...
 
 I can think of many more requests. So what is the problem here? Many service providers exist for these sort of thing. But what if you want to test them out quickly - or what if you want to integrate these services into your software? Typically, the flow is as follows:
