@@ -44,7 +44,8 @@ Let's build a big registry for services. How? Let's say you've made some nice so
 Many programming languages exist in the world today. Ideally the service you provide will be exported as part of a client library - giving users tools such as auto completion in their language of choice. We're really lucky though that the tools to do such things already exist! To name a few examples:
 - Google protobuf
 - Apache Thrift
-- Corba
+- CORBA
+
 These tools allow you to define the interface using an IDL (interface description language), and then automatically generate server & client libraries for different languages, and the tools to send messages between the two. See for instance the `google_translate` [protobuf IDL](https://github.com/reqyt/reqyt/blob/master/functions/google_translate/interface.proto) from the introduction on this website.
 
 #### Reqyt
