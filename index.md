@@ -9,8 +9,7 @@
   -H "Content-Type: application/json" -X POST http://reqyt.run/google_translate
 ```
 ### What & Why
-Where to start? What I'm trying to do here is to solve a certain issue. What is the issue? I'm trying to solve a certain problem for software developers.
-
+Where to start?
 Maybe I should start with what I think this is. I would say it's a market place for (micro?) services. So, what does that mean? Look at the internet nowadays. There are many small and big service providers for small data queries. For example:
 - Google, could you show me all the matching websites for 'services marketplace'? And google will answer.
 - Will it rain tomorrow in Amsterdam at 5?
